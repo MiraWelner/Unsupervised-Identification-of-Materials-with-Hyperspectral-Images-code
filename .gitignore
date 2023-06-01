@@ -1,0 +1,6 @@
+train/
+test/
+raw_images/
+slurm*
+.ipynb_checkpoints/
+*npy

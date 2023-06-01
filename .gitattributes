@@ -1,0 +1,6 @@
+*.ipynb linguist-detectable=false
+*.out linguist-detectable=false
+*.pb linguist-detectable=false
+*.png linguist-detectable=false
+*.md linguist-detectable=false
+*.py linguist-detectable=true
