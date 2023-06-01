@@ -1,6 +1,7 @@
 train/
 test/
 raw_images/
+__pycache__/
 slurm*
 .ipynb_checkpoints/
 *npy
