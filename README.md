@@ -27,12 +27,11 @@ To train the autoencoder, run `train_autoencoder.py`. It is currently set to a b
 The autoencoder can be used to find the three primary spectra of an image - as you can see here, these are approximations of the spectra for an image containing mostly wood
 ![primary_spectra](images/primary_spectra.png)
 
-It is highly optimized for recreating the spectra
+It is highly optimized for recreating the spectra (as you can see in the high level of accuracy in the image below)
 ![spectra_reconstruction](images/spectra_reconstruction.png)
 
 
-but less optimized for determining the distribution of the spectra
-It is highly optimized for recreating the spectra
+but less optimized for determining the distribution of the spectra (as you can see from the lower level of accuracy in the image below)
 ![distribution_reconstruction](images/distribution_reconstruction.png)
 
 if you would like to recreate these plots you should run `demonstrate_autoencoder.ipynb`
